@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+I'm Astitva, and i love to build!
+check out my portfolio!
+
 <!--
 **Astitva23/Astitva23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
