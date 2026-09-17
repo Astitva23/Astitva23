@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 
 I'm Astitva, and i love to build!
